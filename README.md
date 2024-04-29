@@ -7,5 +7,6 @@ Trying to document my coding interview prep: readings, courses, and solving codi
 
 
 
-|S.No.|Problem|Status|Spaced Rep|Solution|
-|----|----|----|-----|----|
+|S.No.|Problem|Topic|Status|Spaced Rep|Solution|
+|----|----|----|----|-----|----|
+|1|Two Sum|Arrays|✅|🔵|Python, Python|
