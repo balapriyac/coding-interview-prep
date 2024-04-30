@@ -20,4 +20,4 @@ I've started working through Blind 75. Here's my progress:
 |S.No.|Problem|Topic|Status|Spaced Rep|Solution|
 |----|----|----|----|-----|----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Arrays|✅|🔵|[Python](https://github.com/balapriyac/coding-interview-prep/blob/main/arrays/two-sum/1.py), [Python](https://github.com/balapriyac/coding-interview-prep/blob/main/arrays/two-sum/2.py)|
-|2|[Contains Duplicate]()|Arrays|✅|🔵|[Python]()|
+|2|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Arrays|✅|🔵|[Python](https://github.com/balapriyac/coding-interview-prep/blob/main/arrays/contains-duplicate/solution.py)|
